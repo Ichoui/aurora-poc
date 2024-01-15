@@ -23,5 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-environments/
+environments/.env
+environments/.env.production
 public/
